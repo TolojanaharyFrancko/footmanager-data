@@ -1,24 +1,9 @@
 {
-  "reservations": [
-    {
-      "id": 1755087109311,
-      "date": "2025-08-13",
-      "time": "10:00-10:30",
-      "clientId": null,
-      "client": "teste",
-      "phone": "58686",
-      "amount": 30,
-      "paid": false,
-      "isConsecutive": false,
-      "consecutiveGroup": 1755087109311,
-      "slotNumber": 1,
-      "totalSlots": 1
-    }
-  ],
+  "reservations": [],
   "transactions": [],
   "clients": [],
-  "lastModified": "2025-08-13T12:11:49.311Z",
-  "version": 1755087109311,
+  "lastModified": "2025-08-13T12:14:33.274Z",
+  "version": 1755087273274,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
