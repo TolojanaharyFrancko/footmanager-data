@@ -1,1 +1,9 @@
-
+{
+  "reservations": [],
+  "transactions": [],
+  "clients": [],
+  "lastModified": "2025-08-13T12:07:57.895Z",
+  "version": 1755086877895,
+  "savedBy": "admin",
+  "appVersion": "1.0.0"
+}
