@@ -195,6 +195,20 @@
       "consecutiveGroup": 1755087619070,
       "slotNumber": 6,
       "totalSlots": 6
+    },
+    {
+      "id": 1755088524822,
+      "date": "2025-08-13",
+      "time": "09:30-10:00",
+      "clientId": null,
+      "client": "Francko3",
+      "phone": "5575",
+      "amount": 30,
+      "paid": true,
+      "isConsecutive": false,
+      "consecutiveGroup": 1755088524822,
+      "slotNumber": 1,
+      "totalSlots": 1
     }
   ],
   "transactions": [
@@ -221,11 +235,19 @@
       "description": "Réservation test6 (5 créneaux)",
       "amount": 150,
       "category": "reservation"
+    },
+    {
+      "id": 1755088524822,
+      "date": "2025-08-13",
+      "type": "income",
+      "description": "Réservation Francko3 (1 créneaux)",
+      "amount": 30,
+      "category": "reservation"
     }
   ],
   "clients": [],
-  "lastModified": "2025-08-13T12:28:28.189Z",
-  "version": 1755088108189,
+  "lastModified": "2025-08-13T12:35:24.822Z",
+  "version": 1755088524822,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
