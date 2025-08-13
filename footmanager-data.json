@@ -1,9 +1,38 @@
 {
-  "reservations": [],
+  "reservations": [
+    {
+      "id": 1755086896119,
+      "date": "2025-08-13",
+      "time": "08:00-08:30",
+      "clientId": null,
+      "client": "Francko",
+      "phone": "122442224",
+      "amount": 30,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755086896119,
+      "slotNumber": 1,
+      "totalSlots": 2
+    },
+    {
+      "id": 1755086896120,
+      "date": "2025-08-13",
+      "time": "08:30-09:00",
+      "clientId": null,
+      "client": "Francko",
+      "phone": "122442224",
+      "amount": 30,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755086896119,
+      "slotNumber": 2,
+      "totalSlots": 2
+    }
+  ],
   "transactions": [],
   "clients": [],
-  "lastModified": "2025-08-13T12:07:57.895Z",
-  "version": 1755086877895,
+  "lastModified": "2025-08-13T12:08:16.119Z",
+  "version": 1755086896119,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
