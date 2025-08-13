@@ -218,11 +218,39 @@
       "client": "Francko233",
       "phone": "57775775",
       "amount": 25,
-      "paid": false,
+      "paid": true,
       "isConsecutive": false,
       "consecutiveGroup": 1755088543381,
       "slotNumber": 1,
       "totalSlots": 1
+    },
+    {
+      "id": 1755088716989,
+      "date": "2025-08-13",
+      "time": "10:30-11:00",
+      "clientId": null,
+      "client": "test577778",
+      "phone": "54545454554",
+      "amount": 30,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755088716989,
+      "slotNumber": 1,
+      "totalSlots": 2
+    },
+    {
+      "id": 1755088716990,
+      "date": "2025-08-13",
+      "time": "11:00-11:30",
+      "clientId": null,
+      "client": "test577778",
+      "phone": "54545454554",
+      "amount": 30,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755088716989,
+      "slotNumber": 2,
+      "totalSlots": 2
     }
   ],
   "transactions": [
@@ -257,11 +285,19 @@
       "description": "Réservation Francko3 (1 créneaux)",
       "amount": 30,
       "category": "reservation"
+    },
+    {
+      "id": 1755088551878,
+      "date": "2025-08-13",
+      "type": "income",
+      "description": "Réservation Francko233",
+      "amount": 25,
+      "category": "reservation"
     }
   ],
   "clients": [],
-  "lastModified": "2025-08-13T12:35:43.381Z",
-  "version": 1755088543381,
+  "lastModified": "2025-08-13T12:38:36.989Z",
+  "version": 1755088716989,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
