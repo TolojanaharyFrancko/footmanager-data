@@ -260,7 +260,7 @@
       "client": "Francko",
       "phone": "554545454",
       "amount": 30,
-      "paid": true,
+      "paid": false,
       "isConsecutive": false,
       "consecutiveGroup": 1755153519115,
       "slotNumber": 1,
@@ -307,19 +307,11 @@
       "description": "Réservation Francko233",
       "amount": 25,
       "category": "reservation"
-    },
-    {
-      "id": 1755153564939,
-      "date": "2025-08-14",
-      "type": "income",
-      "description": "Réservation Francko",
-      "amount": 30,
-      "category": "reservation"
     }
   ],
   "clients": [],
-  "lastModified": "2025-08-14T06:39:47.163Z",
-  "version": 1755153587163,
+  "lastModified": "2025-08-14T06:45:27.370Z",
+  "version": 1755153927370,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
