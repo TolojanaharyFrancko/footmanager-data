@@ -251,6 +251,20 @@
       "consecutiveGroup": 1755088716989,
       "slotNumber": 2,
       "totalSlots": 2
+    },
+    {
+      "id": 1755153519115,
+      "date": "2025-08-14",
+      "time": "08:00-08:30",
+      "clientId": null,
+      "client": "Francko",
+      "phone": "554545454",
+      "amount": 30,
+      "paid": false,
+      "isConsecutive": false,
+      "consecutiveGroup": 1755153519115,
+      "slotNumber": 1,
+      "totalSlots": 1
     }
   ],
   "transactions": [
@@ -296,8 +310,8 @@
     }
   ],
   "clients": [],
-  "lastModified": "2025-08-13T12:39:20.901Z",
-  "version": 1755088760901,
+  "lastModified": "2025-08-14T06:38:39.116Z",
+  "version": 1755153519116,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
